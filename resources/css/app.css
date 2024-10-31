@@ -1,0 +1,11 @@
+
+
+h1 {
+    color: #4CAF50; /* Green color for headings */
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #ff6347 !important; /* Tomato color for primary buttons */
+    border-color: #ff6347 !important;
+}
